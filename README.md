@@ -1,5 +1,6 @@
 
-# 🌟 Elaheh Farokhi Moghadam - .NET Developer Portfolio 🌟
+# 🌟 Elaheh Farokhi Moghadam 🌟
+## 🌟 .NET Developer 🌟
 
 👋 **Hello! I'm Elaheh Farokhi Moghadam**  
 I’m a **.NET Developer** with over **5 years of experience** specializing in creating scalable and high-performance applications. My expertise spans across backend development, database management, and full-stack solutions with modern frameworks.
