@@ -1,16 +1,12 @@
-## Hi there 👋
+Elaheh Farokhi Moghadam - .NET Developer Portfolio
 
-<!--
-**ElahehFarokhi/ElahehFarokhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm Elaheh Farokhi Moghadam, an experienced .NET developer with over 5 years of expertise in creating scalable, high-performance applications. My work spans back-end development, database management, and full-stack applications with modern frameworks.
+👩‍💻 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Experience: 5+ years in .NET development
+    Core Skills:
+        Backend: .NET, Entity Framework Core, C#
+        Database: SQL (Database design, queries, optimization)
+        Frontend: Angular, Blazor
+    English Level: Advanced – ready to contribute to international projects
+    Location: Open to remote and international opportunities
