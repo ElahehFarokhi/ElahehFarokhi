@@ -20,7 +20,6 @@ I’m a **.NET Developer** with over **5 years of experience** specializing in c
 
 ## 🌐 **Connect with Me**
 - **LinkedIn**: [Elaheh Farokhi Moghadam](https://www.linkedin.com/in/elahehfarokhimoghadam) – Let’s connect!
-- **Website**: [elahehfarokhimoghadam.com](https://elahehfarokhimoghadam.com) – Check out my portfolio and project highlights.
 
 ---
 
