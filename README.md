@@ -2,10 +2,10 @@
 # 🌟 Elaheh Farokhi Moghadam 🌟
 ## 🌟 .NET Developer 🌟
 
-👋 Hi, I’m a Software Developer with 8+ years of experience creating web applications — from ERP platforms to video banking systems.
-💻 I work mainly with .NET Core, C#, ASP.NET Core, Angular, TypeScript, and MS-SQL.
-⚡ I enjoy writing clean, scalable code using OOP, SOLID principles, and TDD.
-🤝 I love collaborating in Agile teams, integrating RESTful APIs, and optimizing complex systems to make them faster and easier to maintain.
+ **👋 Hi, I’m a Software Developer with 8+ years of experience creating web applications — from ERP platforms to video banking systems. **
+ **💻 I work mainly with .NET Core, C#, ASP.NET Core, Angular, TypeScript, and MS-SQL. **
+ **⚡ I enjoy writing clean, scalable code using OOP, SOLID principles, and TDD. **
+ **🤝 I love collaborating in Agile teams, integrating RESTful APIs, and optimizing complex systems to make them faster and easier to maintain. **
 
 ---
 
