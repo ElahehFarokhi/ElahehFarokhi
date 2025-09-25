@@ -2,13 +2,15 @@
 # 🌟 Elaheh Farokhi Moghadam 🌟
 ## 🌟 .NET Developer 🌟
 
-👋 **Hello! I'm Elaheh Farokhi Moghadam**  
-I’m a **.NET Developer** with over **5 years of experience** specializing in creating scalable and high-performance applications. My expertise spans across backend development, database management, and full-stack solutions with modern frameworks.
+👋 Hi, I’m a Software Developer with 8+ years of experience creating web applications — from ERP platforms to video banking systems.
+💻 I work mainly with .NET Core, C#, ASP.NET Core, Angular, TypeScript, and MS-SQL.
+⚡ I enjoy writing clean, scalable code using OOP, SOLID principles, and TDD.
+🤝 I love collaborating in Agile teams, integrating RESTful APIs, and optimizing complex systems to make them faster and easier to maintain.
 
 ---
 
 ## 💼 **About Me**
-- **👩‍💻 Experience**: 5+ years in .NET development
+- **👩‍💻 Experience**: 8+ years in .NET development
 - **🌐 Core Skills**:
   - **Backend**: .NET, Entity Framework Core, C#
   - **Database**: SQL (design, queries, optimization)
